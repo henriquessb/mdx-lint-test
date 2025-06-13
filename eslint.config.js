@@ -1,6 +1,6 @@
-import * as mdx from 'eslint-mdx';
+const mdx = require('eslint-mdx');
 
-export default [
+module.exports = [
   mdx(),
   {
     files: ['docs/**/*.md', 'docs/**/*.mdx'],
