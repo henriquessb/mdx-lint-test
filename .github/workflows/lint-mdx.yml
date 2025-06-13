@@ -24,4 +24,4 @@ jobs:
 
       - name: Run eslint-mdx
         run: |
-          npx eslint 'docs/**/*.{md,mdx}'
+          npx eslint 'docs/**/*.{md,mdx}' --parser-options extensions:.md
