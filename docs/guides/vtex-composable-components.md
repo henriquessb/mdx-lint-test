@@ -640,8 +640,7 @@ Some add-ons available at VTEX are:
         </a>{' '}
         connects VTEX stores with brands interested in advertising their
         products. This connection allows advertisers and merchants to boost
-        their business.
-      </td>
+        their business.</td>
       <td>Plug-and-play, upon subscription/additional costs</td>
     </tr>
   </tbody>
