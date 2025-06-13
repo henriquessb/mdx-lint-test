@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm eslint-plugin-mdx
+          npm install eslint-plugin-mdx
 
       - name: Run eslint-mdx
         run: |
