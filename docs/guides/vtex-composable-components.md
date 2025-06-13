@@ -53,7 +53,8 @@ Management that help merchants start their operations smoothly and efficiently.
     <tr>
       <td>Catalog</td>
       <td>
-        In the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog">Catalog</a>, merchants can manage the category tree (departments, categories, and subcategories), brands, products, SKUs, and specifications. Merchants can use this module natively through the Admin or via the <a href="https://developers.vtex.com/docs/api-reference/catalog-api">Catalog API</a>, import the data from a spreadsheet, or integrate it with an external back office tool. For more details, see <b>ERP</b> and <b>PIM/CPQ</b> in <a href="#integrations">Integrations</a>.</td>
+        In the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog">Catalog</a>, merchants can manage the category tree (departments, categories, and subcategories), brands, products, SKUs, and specifications. Merchants can use this module natively through the Admin or via the <a href="https://developers.vtex.com/docs/api-reference/catalog-api">Catalog API</a>, import the data from a spreadsheet, or integrate it with an external back office tool. For more details, see <b>ERP</b> and <b>PIM/CPQ</b> in <a href="#integrations">Integrations</a>.
+      </td>
       <td>Built-in</td>
     </tr>
     <tr>
