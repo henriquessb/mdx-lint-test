@@ -29,9 +29,7 @@ In the tables below, each component is classified by type.
 > guide for more details about store implementation in specific scenarios.
 
 If you want to try composability and simulate building a store architecture, see
-the details in the
-[Interactive Marchitecture tool](https://developers.vtex.com/docs/guides/interactive-marchitecture-tool)
-guide.
+the details in the [Interactive Marchitecture tool](https://developers.vtex.com/docs/guides/interactive-marchitecture-tool) guide.
 
 ## Commerce Platform
 

@@ -30,7 +30,7 @@ To avoid errors, link or install the configuration app in the same workspace the
     vtex use workspace {desiredWorkspace}
     ```
 
-    > ℹ️ Replace {desiredWorkspace} with the workspace you want to work in.
+    > ℹ️ Replace `{desiredWorkspace}` with the workspace you want to work in.
 
 2. If your service app is not yet linked or installed, [link](https://developers.vtex.com/docs/guides/vtex-io-documentation-linking-an-app) or [install](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-an-app) your service app.
 3. [Link](https://developers.vtex.com/docs/guides/vtex-io-documentation-linking-an-app) or [install](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-an-app) your configuration app.
@@ -45,7 +45,7 @@ To publish your configuration app without installing the service in the master w
     vtex use workspace {desiredWorkspace}
     ```
 
-    Replace `{desiredWorkspace}` with the workspace you want to work in.
+    > ℹ️ Replace `{desiredWorkspace}` with the workspace you want to work in.
 
 2. If your service app is not yet linked or installed, [link](https://developers.vtex.com/docs/guides/vtex-io-documentation-linking-an-app) or [install](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-an-app) your service app.
 3. Create a new version of your configuration app by following the instructions in [Releasing a new app version](https://developers.vtex.com/docs/guides/vtex-io-documentation-releasing-a-new-app-version).
