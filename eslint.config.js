@@ -1,5 +1,5 @@
 import mdxPlugin from 'eslint-plugin-mdx';
-import mdxRecommended from 'eslint-plugin-mdx/configs/recommended.ts';
+import mdxRecommended from 'eslint-plugin-mdx/configs/recommended';
 
 
 export default [
