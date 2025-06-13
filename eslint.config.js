@@ -1,4 +1,4 @@
-import mdxPlugin from 'eslint-plugin-mdx';
+import * as mdxPlugin from 'eslint-plugin-mdx';
 
 
 export default [
