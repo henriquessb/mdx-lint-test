@@ -20,8 +20,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm i -D eslint-plugin-mdx
+          npm ci || npm install
+
+      - name: Install dependencies
+        run: |
+          npm eslint-plugin-mdx
 
       - name: Run eslint-mdx
         run: |
-          npx eslint docs --ext md,mdx
+          npx eslint 'docs/**/*.{md,mdx}'
