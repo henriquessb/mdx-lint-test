@@ -53,8 +53,7 @@ Management that help merchants start their operations smoothly and efficiently.
     <tr>
       <td>Catalog</td>
       <td>
-        In the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog">Catalog</a>, merchants can manage the category tree (departments, categories, and subcategories), brands, products, SKUs, and specifications. Merchants can use this module natively through the Admin or via the <a href="https://developers.vtex.com/docs/api-reference/catalog-api">Catalog API</a>, import the data from a spreadsheet, or integrate it with an external back office tool. For more details, see <b>ERP</b> and <b>PIM/CPQ</b> in <a href="#integrations">Integrations</a>.
-      </td>
+        In the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog">Catalog</a>, merchants can manage the category tree (departments, categories, and subcategories), brands, products, SKUs, and specifications. Merchants can use this module natively through the Admin or via the <a href="https://developers.vtex.com/docs/api-reference/catalog-api">Catalog API</a>, import the data from a spreadsheet, or integrate it with an external back office tool. For more details, see <b>ERP</b> and <b>PIM/CPQ</b> in <a href="#integrations">Integrations</a>.</td>
       <td>Built-in</td>
     </tr>
     <tr>
@@ -532,13 +531,8 @@ Some add-ons available at VTEX are:
       <td>Sales App</td>
       <td>
         <a href="https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf">
-          VTEX Sales App
-        </a>{' '}
-        is our main solution for{' '}
-        <a href="https://help.vtex.com/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv">
-          Unified Commerce
-        </a>{' '}
-        operations. It includes a mobile app that enables sales associates from
+          VTEX Sales App</a> is our main solution for<a href="https://help.vtex.com/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv">
+          Unified Commerce</a> operations. It includes a mobile app that enables sales associates from
         physical stores to serve customers and complete the entire sales
         process, from helping to choose the right products to payment and
         delivery.
@@ -561,9 +555,7 @@ Some add-ons available at VTEX are:
       <td>Personal Shopper</td>
       <td>
         <a href="https://vtex.com/us-en/vtex-personal-shopper/">
-          VTEX Personal Shopper
-        </a>{' '}
-        is an app used by sales associates that brings the physical store
+          VTEX Personal Shopper</a> is an app used by sales associates that brings the physical store
         shopping experience to the digital environment. It offers one-to-one
         video chats with customers, enabling product demonstration, real-time
         answers to queries, and direct addition of products to the cart.
@@ -574,16 +566,13 @@ Some add-ons available at VTEX are:
       <td>Assisted Sales (SuiteShare)</td>
       <td>
         <a href="https://help.vtex.com/pt/tracks/suiteshare--khP0p8mjIYRIpvM7Cb4Zr">
-          Assisted Sales (SuiteShare)
-        </a>
+          Assisted Sales (SuiteShare)</a> 
         , previously known as Conversational Commerce, is a marketing platform
         for WhatsApp, helping to attract more clients, capture customer data,
         and integrate with sales tools. The platform allows for organizing
         customer support, integrating with major CRMs, and measuring results.
-        The solution is based on the{' '}
-        <a href="https://developers.facebook.com/docs/whatsapp/cloud-api">
-          official WhatsApp API
-        </a>
+        The solution is based on the<a href="https://developers.facebook.com/docs/whatsapp/cloud-api">
+          official WhatsApp API</a> 
         .
       </td>
       <td>Plug-and-play, upon subscription/additional costs</td>
@@ -592,9 +581,7 @@ Some add-ons available at VTEX are:
       <td>Pick and Pack</td>
       <td>
         <a href="https://help.vtex.com/en/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU">
-          VTEX Pick and Pack
-        </a>{' '}
-        helps merchants manage the order fulfillment process, including picking,
+          VTEX Pick and Pack</a> helps merchants manage the order fulfillment process, including picking,
         packing, and delivery, from physical stores and warehouses to customers'
         addresses or pickup points. It provides real-time tracking, route
         optimization, and data analytics to improve efficiency and performance.
@@ -624,9 +611,7 @@ Some add-ons available at VTEX are:
       <td>VTEX Shield</td>
       <td>
         <a href="https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">
-          VTEX Shield
-        </a>{' '}
-        offers additional, customizable protection layers for stores
+          VTEX Shield</a> offers additional, customizable protection layers for stores
         prioritizing platform resilience and the security standards guaranteed
         by VTEX's existing security certifications and practices.
       </td>
@@ -636,11 +621,10 @@ Some add-ons available at VTEX are:
       <td>Ad Network</td>
       <td>
         <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur">
-          VTEX Ad Network
-        </a>{' '}
-        connects VTEX stores with brands interested in advertising their
+          VTEX Ad Network</a> connects VTEX stores with brands interested in advertising their
         products. This connection allows advertisers and merchants to boost
-        their business.</td>
+        their business.
+      </td>
       <td>Plug-and-play, upon subscription/additional costs</td>
     </tr>
   </tbody>
