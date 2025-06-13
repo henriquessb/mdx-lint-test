@@ -1,4 +1,4 @@
-import mdx from 'eslint-mdx';
+import * as mdx from 'eslint-mdx';
 
 export default [
   mdx(),
