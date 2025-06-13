@@ -1,9 +1,11 @@
-import * as mdx from 'eslint-mdx';
+import mdxPlugin from 'eslint-plugin-mdx';
+import mdxRecommended from 'eslint-plugin-mdx/configs/recommended.js';
+
 
 export default [
+  ...mdxRecommended,
   {
     files: ['docs/**/*.md', 'docs/**/*.mdx'],
-    plugins: { mdx },
-    extends: ['plugin:mdx/recommended'],
+    plugins: { mdx: mdxPlugin }
   },
 ];
